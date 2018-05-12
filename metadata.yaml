@@ -1,5 +1,8 @@
 _repo: The-Willows_11438
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -13,6 +16,8 @@ description: Set on the snaking, sinuous Danube River, Algernon Blackwood's tale
   acknowledged master H.P. Lovecraft regarded it as the best supernatural tale ever
   written. More awe-inspiring and thought-provoking than gory or terrifying, "The
   Willows" is a must-read for fans of classic ghost stories.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11438#The-Willows
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
